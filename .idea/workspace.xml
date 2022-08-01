@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa980249-93b9-4af9-aeec-0662a4eeb158" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Grzesiek/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Grzesiek/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Grzesiek/KolekcjeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Grzesiek/Liczba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Grzesiek/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Grzesiek/Pesel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Grzesiek/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Grzesiek/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Grzesiek/ArrayExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Grzesiek/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Grzesiek/LiczbaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Grzesiek/LottoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Grzesiek/PeselTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Grzesiek/UserManagerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/Grzesiek/Calculator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/Grzesiek/CalculatorTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C7thkP8InspXo2QaNcWkBoeeqM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Download Shared Index": "Shared indexes available",
+    "Notification.DoNotAsk-Download Shared Index": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "D:/Projekty JAVA/My Codes/MyNewCodes",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.Grzesiek" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserManagerTest">
+    <configuration name="KolekcjeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Grzesiek.KolekcjeMain" />
+      <module name="Testy-programowanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Grzesiek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lotto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Grzesiek.Lotto" />
+      <module name="Testy-programowanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Grzesiek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testy-programowanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Grzesiek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Grzesiek" />
+      <option name="MAIN_CLASS_NAME" value="com.Grzesiek.ArrayExampleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LottoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testy-programowanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Grzesiek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Grzesiek" />
+      <option name="MAIN_CLASS_NAME" value="com.Grzesiek.LottoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testy-programowanie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Grzesiek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Grzesiek" />
+      <option name="MAIN_CLASS_NAME" value="com.Grzesiek.UserManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserManagerTest" />
+        <item itemvalue="JUnit.ArrayExampleTest" />
+        <item itemvalue="JUnit.LottoTest" />
+        <item itemvalue="Application.Lotto" />
+        <item itemvalue="Application.KolekcjeMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa980249-93b9-4af9-aeec-0662a4eeb158" name="Changes" comment="" />
+      <created>1658165572646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658165572646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
